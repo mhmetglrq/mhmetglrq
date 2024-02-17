@@ -55,8 +55,8 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/output/dist/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+  <source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" src="output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 ###
