@@ -54,9 +54,6 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="blob/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="github-snake" src="blob/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img src="https://github.com/mhmetglrq/mhmetglrq/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
