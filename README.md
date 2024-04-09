@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋! My name is Mehmet and I'm a Flutter Developer, from Turkey</h1>
+<h1 align="center">Hi 👋! My name is Mehmet and I'm a Software Developer, from Turkey</h1>
 
 ###
 
